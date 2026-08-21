@@ -25,7 +25,8 @@ const MODEL_MAPPING = {
   'gpt-3.5-turbo': 'minimaxai/minimax-m3',
   'gpt-4': 'nvidia/nemotron-3-ultra-550b-a55b',
   'gpt-4-turbo': 'thinkingmachines/inkling',
-  'gpt-4o': 'google/gemma-4-31b-it'
+  'gpt-4o': 'google/gemma-4-31b-it',
+  'claude-3-ops': 'deepseek-ai/deepseek-v4-flash-0731'
 };
 
 // Health check endpoint
